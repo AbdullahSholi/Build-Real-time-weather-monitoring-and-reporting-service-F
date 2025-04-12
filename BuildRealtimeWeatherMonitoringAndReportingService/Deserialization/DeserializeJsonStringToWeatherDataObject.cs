@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using BuildRealtimeWeatherMonitoringAndReportingService.Entities;
+using Newtonsoft.Json.Linq;
 
 namespace BuildRealtimeWeatherMonitoringAndReportingService.Deserialization;
 

@@ -1,6 +1,6 @@
 ﻿using BuildRealtimeWeatherMonitoringAndReportingService.Deserialization;
 using Newtonsoft.Json.Linq;
-namespace BuildRealtimeWeatherMonitoringAndReportingService;
+namespace BuildRealtimeWeatherMonitoringAndReportingService.IO;
 
 public class ConfigurationsFileReader
 {

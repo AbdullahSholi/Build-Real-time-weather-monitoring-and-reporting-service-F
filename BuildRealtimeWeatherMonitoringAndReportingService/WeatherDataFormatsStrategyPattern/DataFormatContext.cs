@@ -1,4 +1,6 @@
-﻿namespace BuildRealtimeWeatherMonitoringAndReportingService;
+﻿using BuildRealtimeWeatherMonitoringAndReportingService.Entities;
+
+namespace BuildRealtimeWeatherMonitoringAndReportingService.WeatherDataFormatsStrategyPattern;
 
 public class DataFormatContext
 {

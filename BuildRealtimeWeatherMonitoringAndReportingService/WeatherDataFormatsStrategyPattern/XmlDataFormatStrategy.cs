@@ -1,6 +1,8 @@
 ﻿using BuildRealtimeWeatherMonitoringAndReportingService.Deserialization;
+using BuildRealtimeWeatherMonitoringAndReportingService.Entities;
 
-namespace BuildRealtimeWeatherMonitoringAndReportingService;
+namespace BuildRealtimeWeatherMonitoringAndReportingService.WeatherDataFormatsStrategyPattern;
+
 
 public class XmlDataFormatStrategy : IDataFormatStrategy
 {
