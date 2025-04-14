@@ -10,5 +10,8 @@
     &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.NotifyObserver_WhenProvideValidObservers_ThenObserverNotifiedSuccessfully&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.AddObserver_WhenProvideValidObserver_ThenObserverAddedSuccessfully&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.RemoveObserver_WhenProvideValidObserver_ThenObserverRemovedSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.JsonDataFormatStrategyShould.CanProcessWeatherData_WhenEnterValidData_ShouldReturnTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.JsonDataFormatStrategyShould.CantProcessWeatherData_WhenEnterInValidData_ShouldReturnFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.JsonDataFormatStrategyShould.ProcessWeatherData_WhenEnterValidWeatherData_ShouldProcessWeatherData&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
