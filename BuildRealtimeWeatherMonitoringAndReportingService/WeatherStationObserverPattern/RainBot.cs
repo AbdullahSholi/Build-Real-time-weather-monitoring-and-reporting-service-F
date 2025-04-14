@@ -9,7 +9,7 @@ public class RainBot : IObserver
     {
         _message = message;
     }
-    public void Display()
+    public virtual void Display()
     {
         Console.WriteLine(CustomMessage.RainBotMessage);
         Console.WriteLine($"RainBot: \"{_message}\"");
