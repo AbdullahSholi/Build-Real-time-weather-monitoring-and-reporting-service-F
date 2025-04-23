@@ -19,7 +19,7 @@ public class Program
         var weatherData = Console.ReadLine();
         
         // Strategy Design Pattern
-        DataFormats dataFormats = new DataFormats();
+        IDataFormats dataFormats = new DataFormats();
         DataFormatContext dataFormatContext = new DataFormatContext(dataFormats);
         var userInput = dataFormatContext.ProcessWeatherData(weatherData);
         

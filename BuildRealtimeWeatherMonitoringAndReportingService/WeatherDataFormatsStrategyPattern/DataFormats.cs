@@ -1,6 +1,6 @@
 ﻿namespace BuildRealtimeWeatherMonitoringAndReportingService.WeatherDataFormatsStrategyPattern;
 
-public class DataFormats
+public class DataFormats : IDataFormats
 {
     
     public List<IDataFormatStrategy> DataFormatStrategies()

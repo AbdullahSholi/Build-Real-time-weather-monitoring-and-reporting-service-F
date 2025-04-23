@@ -6,7 +6,7 @@ public class DataFormatContext
 {
     private readonly List<IDataFormatStrategy> _dataFormatStrategies;
     
-    public DataFormatContext(DataFormats dataFormats)
+    public DataFormatContext(IDataFormats dataFormats)
     {
         _dataFormatStrategies = dataFormats.DataFormatStrategies();
     }
