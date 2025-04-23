@@ -1,4 +1,4 @@
-﻿namespace BuildRealtimeWeatherMonitoringAndReportingService;
+﻿namespace BuildRealtimeWeatherMonitoringAndReportingService.Entities;
 
 public class WeatherData
 {
