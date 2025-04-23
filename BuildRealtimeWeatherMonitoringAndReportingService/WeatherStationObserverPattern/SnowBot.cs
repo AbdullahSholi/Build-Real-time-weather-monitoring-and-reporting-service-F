@@ -9,7 +9,7 @@ public class SnowBot :IObserver
     {
         _message = message;
     }
-    public void Display()
+    public virtual void Display()
     {
         Console.WriteLine(CustomMessage.SnowBotMessage);
         Console.WriteLine($"SnowBot: \"{_message}\"");

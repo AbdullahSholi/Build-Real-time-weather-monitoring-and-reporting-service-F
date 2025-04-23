@@ -9,7 +9,7 @@ public class SunBot : IObserver
     {
         _message = message;
     }
-    public void Display()
+    public virtual void Display()
     {
         Console.WriteLine(CustomMessage.SunBotMessage);
         Console.WriteLine($"SunBot: \"{_message}\"");

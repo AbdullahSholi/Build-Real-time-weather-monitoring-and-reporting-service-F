@@ -25,6 +25,6 @@ public class WeatherStation : ISubject
             _observers[i].Display();
         }
     }
-    
-    
+
+    public IReadOnlyList<IObserver> GetObservers() => _observers.AsReadOnly();
 }

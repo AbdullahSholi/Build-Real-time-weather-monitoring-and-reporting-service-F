@@ -5,5 +5,10 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=315e4ec4_002D2a35_002D4ee2_002D98a4_002D3237d4aa3f08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.DataFormatContextShould&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.AddObserver_ShouldAddObserver_ThenObserverAddedSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.RemoveObserver_WhenProvideValidObserver_ThenObserverDeletedSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.NotifyObserver_WhenProvideValidObservers_ThenObserverNotifiedSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.AddObserver_WhenProvideValidObserver_ThenObserverAddedSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3290C488-0AA7-4986-97AA-0BD2EC887088::net9.0::BuildRealtimeWeatherMonitoringAndReportingService.Tests.WeatherStationShould.RemoveObserver_WhenProvideValidObserver_ThenObserverRemovedSuccessfully&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
